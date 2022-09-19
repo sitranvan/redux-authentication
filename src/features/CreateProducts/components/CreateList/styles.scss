@@ -1,0 +1,8 @@
+.create-list {
+    list-style: none;
+
+    &>li {
+        margin-top: 8px;
+        color: blue;
+    }
+}
